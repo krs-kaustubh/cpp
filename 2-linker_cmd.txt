@@ -1,0 +1,1 @@
+gcc 2-math.cpp multi.cpp -o m-calci
